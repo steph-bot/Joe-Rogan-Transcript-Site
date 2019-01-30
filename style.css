@@ -1,0 +1,14 @@
+/*.col {
+	background-color: orange;
+	border: 2px solid;
+}*/
+
+/*body {
+	position: relative;
+}*/
+
+.anyClass {
+	position: relative;
+	height:calc(100vh - 100px);
+	overflow-y: scroll;
+}
